@@ -22,9 +22,7 @@ const RestCardContainer = () => {
     <>
       <div className="restaurant">
         <h2 className="restHeader">Restaurants</h2>
-        <div class="search">
-          <input type="text" placeholder="Search for a restaurant..." value={search} onChange={handleChange}/>
-        </div>
+        <input className="search" type="text" placeholder="Search for a restaurant..." value={search} onChange={handleChange}/>
         {filtered.map(block => RestCard(block))}
       </div>
     </>

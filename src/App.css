@@ -43,8 +43,25 @@ body {
   /* background-color: #F4F3EF; */
 }
 
+.card:hover {
+  background-color: #f5f5f5;
+}
+
 .search {
-  
+  border: 2px solid #f0f0f0;
+  border-radius: 1em;
+  border-image: initial;
+  /* background-color: #f0f0f0; */
+  width: 98%;
+  height: 2rem;
+  padding-left: 1em;
+  box-shadow: rgba(0, 0, 0, 0.15) 0px 1px 6px;
+}
+
+input:focus, input:hover {
+  box-shadow: 0 0 5px #F43D4C;
+  outline: none;
+  border: none;
 }
 
 * {

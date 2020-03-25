@@ -33,7 +33,7 @@
           "lng" : -77.85851699999999
         },
         "price": "$",
-        "rating" : 4,
+        "rating" : 4.0,
         "link": "https://www.canyonpizzapsu.com/#/",
         "service": ["T", "D", "C", "GR", "G"]
       }
