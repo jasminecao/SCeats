@@ -5,7 +5,7 @@ const Header = () => {
     <>
       <div className="header">
         <h1>SCeats</h1>
-        <span>A map of restaurants in State College, PA. </span>
+        <span>A map of restaurants in State College, PA.</span>
       </div>
     </>
   )

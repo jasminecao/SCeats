@@ -1,0 +1,42 @@
+{
+  "content": {
+    "body": [
+      {
+        "name": "Local Whiskey",
+        "address": "107 E Beaver Ave, State College, PA 16801",
+        "loc" : {
+          "lat" : 40.7937297,
+          "lng" : -77.8601448
+        },
+        "price": "$$",
+        "rating" : 4.4,
+        "link": "http://www.localwhiskeybar.com/",
+        "service": ["T", "D", "C", "G"]
+      },
+      {
+        "name": "Federal Taphouse",
+        "address": "130 S Fraser St Suite 200, State College, PA 16801",
+        "loc" : {
+          "lat" : 40.7927444,
+          "lng" : -77.86206109999999
+        },
+        "price": "$$",
+        "rating" : 4.1,
+        "link": "https://www.federaltaphouse.com/state-college-pa/",
+        "service": ["N/A"]
+      },
+      {
+        "name": "Canyon Pizza",
+        "address": "219 E Beaver Ave, State College, PA 16801",
+        "loc" : {
+          "lat" : 40.7949346,
+          "lng" : -77.85851699999999
+        },
+        "price": "$",
+        "rating" : 4,
+        "link": "https://www.canyonpizzapsu.com/#/",
+        "service": ["T", "D", "C", "GR", "G"]
+      }
+    ]
+  }
+}
