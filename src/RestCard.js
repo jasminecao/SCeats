@@ -44,6 +44,9 @@ const RestCard = props => {
   if (service.includes("DT")) {
     service[service.indexOf("DT")] = "drive-thru"
   }
+  if (service.includes("O")) {
+    service[service.indexOf("O")] = "online"
+  }
   if (service.includes("GR")) {
     service[service.indexOf("GR")] = "grubhub"
   }

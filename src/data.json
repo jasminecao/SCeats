@@ -59,7 +59,7 @@
         "price": "$",
         "rating" : 4.0,
         "link": "https://www.ordermontecarlopizza.com/",
-        "service": ["N/A"]
+        "service": ["T", "D", "GR"]
       },
       {
         "name": "The Dining Room at The Nittany Lion Inn",
@@ -83,7 +83,7 @@
         "price": "$$",
         "rating" : 4.4,
         "link": "http://www.kimchistatecollege.com/",
-        "service": ["N/A"]
+        "service": ["T", "D"]
       },
       {
         "name": "Little Szechuan",
@@ -240,6 +240,582 @@
         "rating" : 4.2,
         "link": "https://www.statecollege.com/dining/6361/green-bowl/",
         "service": ["N/A"]
+      },
+      {
+        "name": "College Pizza",
+        "address": "128 Locust Ln, State College, PA 16801",
+        "loc" : {
+          "lat" : 40.795912,
+          "lng" : -77.857963
+        },
+        "price": "$",
+        "rating" : 3.7,
+        "link": "https://collegepizza.net/",
+        "service": ["D", "GR"]
+      },
+      {
+        "name": "Are U Hungry",
+        "address": "111 Sowers St, State College, PA 16801",
+        "loc" : {
+          "lat" : 40.79822799999999,
+               "lng" : -77.85552100000001
+        },
+        "price": "$$",
+        "rating" : 4.1,
+        "link": "https://areuhungry.com/",
+        "service": ["D","GR"]
+      },
+      {
+        "name": "Noodles and Company",
+        "address": "244 W College Ave, State College, PA 16801",
+        "loc" : {
+          "lat" : 40.7926491,
+               "lng" : -77.8635378
+        },
+        "price": "$",
+        "rating" : 4.1,
+        "link": "https://locations.noodles.com/pa/state-college/244-west-college-ave.html",
+        "service": ["T", "D", "GR", "DD", "G"]
+      },
+      {
+        "name": "Spat's at the Grill",
+        "address": "100 W College Ave, State College, PA 16801",
+        "loc" : {
+          "lat" : 40.7942719,
+               "lng" : -77.86160670000001
+        },
+        "price": "$$$",
+        "rating" : 4.0,
+        "link": "https://www.spatsatthegrill.com/",
+        "service": ["N/A"]
+      },
+      {
+        "name": "TGI Fridays",
+        "address": "1215 N Atherton St, State College, PA 16803",
+        "loc" : {
+          "lat" : 40.8027322,
+               "lng" : -77.88127369999999
+        },
+        "price": "$$",
+        "rating" : 3.9,
+        "link": "https://www.tgifridays.com/",
+        "service": ["N/A", "GR"]
+      },
+      {
+        "name": "Home D Pizzeria",
+        "address": "1820 S Atherton St, State College, PA 16801",
+        "loc" : {
+          "lat" : 40.7846883,
+          "lng" : -77.83290149999999
+        },
+        "price": "$$",
+        "rating" : 4.0,
+        "link": "https://robinhoodbrewingco.com/",
+        "service": ["T", "C"]
+      },
+      {
+        "name": "Penn Kebab",
+        "address": "418 E College Ave, State College, PA 16801",
+        "loc" : {
+          "lat" : 40.798116,
+          "lng" : -77.85647899999999
+        },
+        "price": "$",
+        "rating" : 4.4,
+        "link": "http://www.pennkebab.com/",
+        "service": ["T", "D", "GR", "DD", "G"]
+      },
+      {
+        "name": "Original Waffle Shop North",
+        "address": "1229 N Atherton St, State College, PA 16803",
+        "loc" : {
+          "lat" : 40.8033333,
+          "lng" : -77.88305559999999
+        },
+        "price": "$",
+        "rating" : 4.7,
+        "link": "https://www.originalwaffleshop.net/",
+        "service": ["C", "T", "G"]
+      },
+      {
+        "name": "Baby's Burgers & Shakes",
+        "address": "131 S Garner St, State College, PA 16801",
+        "loc" : {
+          "lat" : 40.7976167,
+          "lng" : -77.85634440000001
+        },
+        "price": "$",
+        "rating" : 4.2,
+        "link": "http://www.babysburgers.com/",
+        "service": ["GR", "DD"]
+      },
+      {
+        "name": "Primanti Bros. Restaurant and Bar",
+        "address": "130 Heister St, State College, PA 16801",
+        "loc" : {
+          "lat" : 40.7966976,
+          "lng" : -77.85695339999999
+        },
+        "price": "$",
+        "rating" : 4.1,
+        "link": "https://primantibros.com/",
+        "service": ["D", "T", "G"]
+      },
+      {
+        "name": "Bistrozine",
+        "address": "409 E Calder Way, State College, PA 16801",
+        "loc" : {
+          "lat" : 40.797825,
+          "lng" : -77.85602279999999
+        },
+        "price": "$$",
+        "rating" : 4.8,
+        "link": "https://www.bistrozine.com/",
+        "service": ["GR", "DD"]
+      },
+      {
+        "name": "Pho 11 Vietnamese Restaurant",
+        "address": "146 N Atherton St, State College, PA 16801",
+        "loc" : {
+          "lat" : 40.7922862,
+          "lng" : -77.8670259
+        },
+        "price": "$$",
+        "rating" : 4.2,
+        "link": "https://www.facebook.com/phoeleven/",
+        "service": ["D", "T"]
+      },
+      {
+        "name": "Mad Mex",
+        "address": "240 S Pugh St, State College, PA 16801",
+        "loc" : {
+          "lat" : 40.793621,
+          "lng" : -77.85871
+        },
+        "price": "$$",
+        "rating" : 4.1,
+        "link": "http://madmex.com/",
+        "service": ["GR", "DD"]
+      },
+      {
+        "name": "Chen's Mongolian Buffet",
+        "address": "1880 S Atherton St, State College, PA 16801",
+        "loc" : {
+          "lat" : 40.7841657,
+          "lng" : -77.83045199999999
+        },
+        "price": "$",
+        "rating" : 4.6,
+        "link": "https://www.facebook.com/ChensMongolianBuffet/",
+        "service": ["GR", "DD"]
+      },
+      {
+        "name": "Maki Yaki",
+        "address": "407 E Beaver Ave, State College, PA 16801",
+        "loc" : {
+          "lat" : 40.7971535,
+          "lng" : -77.85578149999999
+        },
+        "price": "$",
+        "rating" : 4.2,
+        "link": "https://www.grubhub.com/restaurant/maki-yaki-407-e-beaver-ave-state-college/484035",
+        "service": ["T", "GR", "G"]
+      },
+      {
+        "name": "Original Waffle Shop West",
+        "address": "1610 W College Ave, State College, PA 16801",
+        "loc" : {
+          "lat" : 40.7796136,
+          "lng" : -77.8794611
+        },
+        "price": "$",
+        "rating" : 4.7,
+        "link": "https://www.originalwaffleshop.net/",
+        "service": ["C", "T", "G"]
+      },
+      {
+        "name": "Brothers Pizza New York Style",
+        "address": "204 E College Ave, State College, PA 16801",
+        "loc" : {
+          "lat" : 40.7953494,
+          "lng" : -77.8601571
+        },
+        "price": "$",
+        "rating" : 4.2,
+        "link": "http://www.brotherspizzaandpastastatecollege.com/",
+        "service": ["T"]
+      },
+      {
+        "name": "Fiddlehead",
+        "address": "134 W College Ave, State College, PA 16801",
+        "loc" : {
+          "lat" : 40.7935529,
+          "lng" : -77.8624356
+        },
+        "price": "$",
+        "rating" : 4.2,
+        "link": "http://www.fiddleheadstatecollege.com/",
+        "service": ["GR", "DD"]
+      },
+      {
+        "name": "Sakura",
+        "address": "1525 S Atherton St, State College, PA 16801",
+        "loc" : {
+          "lat" : 40.7855707,
+          "lng" : -77.83777789999999
+        },
+        "price": "$$",
+        "rating" : 4.1,
+        "link": "http://www.sakurastatecollege.com/",
+        "service": ["D"]
+      },
+      {
+        "name": "Penn Pide",
+        "address": "127 W Beaver Ave #4816, State College, PA 16801",
+        "loc" : {
+          "lat" : 40.7929259,
+          "lng" : -77.861127
+        },
+        "price": "$",
+        "rating" : 4.4,
+        "link": "https://www.grubhub.com/restaurant/penn-pide-127-w-beaver-ave-state-college/1188521",
+        "service": ["GR"]
+      },
+      {
+        "name": "Happy Valley Brewing Company",
+        "address": "137 Elmwood St, State College, PA 16801",
+        "loc" : {
+          "lat" : 40.8105705,
+          "lng" : -77.8293398
+        },
+        "price": "$$",
+        "rating" : 4.2,
+        "link": "http://happyvalleybeer.com/",
+        "service": ["N/A"]
+      },
+      {
+        "name": "McDonald's",
+        "address": "442 E College Ave, State College, PA 16801",
+        "loc" : {
+          "lat" : 40.7984645,
+          "lng" : -77.8558475
+        },
+        "price": "$",
+        "rating" : 3.6,
+        "link": "https://www.mcdonalds.com/us/en-us.html",
+        "service": ["C","UE"]
+      },
+      {
+        "name": "Famous Ernie's Steaks",
+        "address": "111 E Beaver Ave, State College, PA 16801",
+        "loc" : {
+          "lat" : 40.7937328,
+          "lng" : -77.86012939999999
+        },
+        "price": "$",
+        "rating" : 3.3,
+        "link": "https://www.grubhub.com/restaurant/famous-ernies-steaks-111-e-beaver-ave-state-college/482170",
+        "service": ["T", "D", "C", "GR", "G"]
+      },
+      {
+        "name": "Champs Downtown",
+        "address": "139 S Allen St, State College, PA 16801",
+        "loc" : {
+          "lat" : 40.7937819,
+          "lng" : -77.8605743
+        },
+        "price": "$$",
+        "rating" : 4.2,
+        "link": "https://www.facebook.com/ChampsSportsGrill/",
+        "service": ["D", "T"]
+      },
+      {
+        "name": "Kaarma Indian Cuisine",
+        "address": "120 E Beaver Ave, State College, PA 16801",
+        "loc" : {
+          "lat" : 40.7936308,
+          "lng" : -77.85946229999999
+        },
+        "price": "$$",
+        "rating" : 4.1,
+        "link": "https://thekaarma.com/",
+        "service": ["GR"]
+      },
+      {
+        "name": "Five Guys",
+        "address": "226 W College Ave, State College, PA 16801",
+        "loc" : {
+          "lat" : 40.792731,
+          "lng" : -77.86318199999999
+        },
+        "price": "$$",
+        "rating" : 4.3,
+        "link": "https://www.fiveguys.com/",
+        "service": ["D", "DD"]
+      },
+      {
+        "name": "John's Shanghai",
+        "address": "312 W Beaver Ave, State College, PA 16801",
+        "loc" : {
+          "lat" : 40.7913436,
+          "lng" : -77.8628885
+        },
+        "price": "$$",
+        "rating" : 3.9,
+        "link": "https://www.facebook.com/pages/Johns-Shanghai/1535870286527564",
+        "service": ["D", "GH"]
+      },
+      {
+        "name": "Kondu",
+        "address": "132 S Allen St, State College, PA 16801",
+        "loc" : {
+          "lat" : 40.7935977,
+          "lng" : -77.86097289999999
+        },
+        "price": "$$",
+        "rating" : 4.3,
+        "link": "http://www.kondustatecollege.com/",
+        "service": ["N/A"]
+      },
+      {
+        "name": "Chopstick Express",
+        "address": "134 E College Ave, State College, PA 16801",
+        "loc" : {
+          "lat" : 40.7950249,
+          "lng" : -77.86061090000001
+        },
+        "price": "$$",
+        "rating" : 4.1,
+        "link": "https://www.statecollege.com/dining/3180/chopstick-express/",
+        "service": ["N/A"]
+      },
+      {
+        "name": "Underground",
+        "address": "218 E Calder Way, State College, PA 16801",
+        "loc" : {
+          "lat" : 40.7952972,
+          "lng" : -77.85931939999999
+        },
+        "price": "$$",
+        "rating" : 4.1,
+        "link": "http://undergroundstatecollege.com/",
+        "service": ["GH", "DD"]
+      },
+      {
+        "name": "Galanga by Cozy Thai",
+        "address": "454 E College Ave, State College, PA 16801",
+        "loc" : {
+          "lat" : 40.7989845,
+          "lng" : -77.8553924
+        },
+        "price": "$",
+        "rating" : 4.4,
+        "link": "https://www.facebook.com/galangabycozythai/",
+        "service": ["T"]
+      },
+      {
+        "name": "Wings Over Happy Valley",
+        "address": "244 W Hamilton Ave, State College, PA 16801",
+        "loc" : {
+          "lat" : 40.7873806,
+          "lng" : -77.85646819999999
+        },
+        "price": "$$",
+        "rating" : 4.1,
+        "link": "https://www.facebook.com/wingsoverhappyvalley/",
+        "service": ["D", "T"]
+      },
+      {
+        "name": "Yallah Taco",
+        "address": "217 McAllister Alley, State College, PA 16801",
+        "loc" : {
+          "lat" : 40.7952219,
+          "lng" : -77.8591866
+        },
+        "price": "$",
+        "rating" : 4.3,
+        "link": "https://yallahtacostatecollege.com/",
+        "service": ["T", "D", "C", "GR"]
+      },
+      {
+        "name": "Big Spring Spirits",
+        "address": "198 Match Factory Place, Bellefonte, PA 16823",
+        "loc" : {
+          "lat" : 40.909170,
+          "lng" : -77.783920
+        },
+        "price": "$$",
+        "rating" : 4.7,
+        "link": "https://www.bigspringspirits.com/",
+        "service": ["C", "D"]
+      },
+      {
+        "name": "Bonfatto's Italian Market & Corner Café",
+        "address": "401 W High St, Bellefonte, PA 16823",
+        "loc" : {
+          "lat" : 40.911470,
+          "lng" : -77.782280
+        },
+        "price": "$$",
+        "rating" : 4.4,
+        "link": "http://www.bonfattos.com/",
+        "service": ["C", "D", "O"]
+      },
+      {
+        "name": "Bradley's Cheesesteaks & Hoagies",
+        "address": "1669 N Atherton St, State College, PA 16803",
+        "loc" : {
+          "lat" : 40.808480,
+          "lng" : -77.896660
+        },
+        "price": "$",
+        "rating" : 3.9,
+        "link": "http://bradleyscheesesteaks.com/",
+        "service": ["T", "D", "O", "GR", "C", "G"]
+      },
+      {
+        "name": "Chronic Town",
+        "address": "224 W College Ave, State College, PA 16801",
+        "loc" : {
+					"lat" : 40.792790,
+          "lng" : -77.863180
+        },
+        "price": "$$",
+        "rating" : 4.6,
+        "link": "http://www.chronictownusa.com/",
+        "service": ["T", "G"]
+      },
+      {
+        "name": "Coldstone Creamery",
+        "address": "321 E Beaver Ave, State College, PA 16801",
+        "loc" : {
+					"lat" : 40.796220,
+          "lng" : -77.856890
+        },
+        "price": "$$",
+        "rating" : 4.4,
+        "link": "https://www.coldstonecreamery.com/stores/20796",
+        "service": ["T", "D", "O", "G"]
+      },
+      {
+        "name": "Doggie's Pub",
+        "address": "108 S Pugh St, State College, PA 16801",
+        "loc" : {
+					"lat" : 40.7950363,
+          "lng" : -77.8602756
+        },
+        "price": "$",
+        "rating" : 4.3,
+        "link": "https://www.doggiespub.com/",
+        "service": ["G"]
+      },
+      {
+        "name": "Dunkin' Donuts",
+        "address": "200 W College Ave, State College, PA 16801",
+        "loc" : {
+					"lat" : 40.7934207,
+          "lng" :-77.8627452
+        },
+        "price": "$",
+        "rating" : 4.0,
+        "link": "www.dunkindonuts.com/",
+        "service": ["T", "O", "D", "DT"]
+      },
+      {
+        "name": "Elk Creek Cafe",
+        "address": "100 W Main St, Millheim, PA 16854",
+        "loc" : {
+					"lat" : 40.8911547,
+          "lng" : -77.4769795
+        },
+        "price": "$$",
+        "rating" : 4.5,
+        "link": "www.elkcreekcafe.com",
+        "service": ["T"]
+      },
+      {
+        "name": "The Field Burger & Tap",
+        "address": "1 Country Club Ln, State College, PA 16803",
+        "loc" : {
+					"lat" : 40.8243095,
+          "lng" :-77.9004758
+        },
+        "price": "$$",
+        "rating" : 4.4,
+        "link": "toftrees.com",
+        "service": ["O", "T"]
+      },
+      {
+        "name": "Gigi's Southern Table",
+        "address": "2080 Cato Ave, State College, PA 16801",
+        "loc" : {
+					"lat" : 40.7626517,
+          "lng" : -77.8799255
+        },
+        "price": "$$$",
+        "rating" : 4.2,
+        "link": "gigisdining.com",
+        "service": ["T"]
+      },
+      {
+        "name": "Good Intent Cider",
+        "address": "167 S Potter St, Bellefonte, PA 16823",
+        "loc" : {
+					"lat" : 40.9102734,
+          "lng" : -77.7837999
+        },
+        "price": "$$",
+        "rating" : 4.7,
+        "link": "goodintentcider.com",
+        "service": ["D"]
+      },
+      {
+        "name": "Hello Bistro",
+        "address": "126 W College Ave, State College, PA 16801",
+        "loc" : {
+					"lat" : 40.7937096,
+          "lng" :-77.8620341
+        },
+        "price": "$$",
+        "rating" : 3.5,
+        "link": "hellobistro.com",
+        "service": ["T", "G"]
+      },
+      {
+        "name": "Insomnia Cookies",
+        "address": "421 E Beaver Ave g2, State College, PA 16801",
+        "loc" : {
+					"lat" : 40.7973198,
+          "lng" :-77.8554228
+        },
+        "price": "$",
+        "rating" : 3.3,
+        "link": "insomniacookies.com",
+        "service": ["T", "D", "O", "G"]
+      },
+      {
+        "name": "Irving's",
+        "address": "110 E College Ave #4816, State College, PA 16801",
+        "loc" : {
+					"lat" : 40.7945614,
+          "lng" : -77.8612104
+        },
+        "price": "$",
+        "rating" : 4.2,
+        "link": "irvingsstatecollege.com",
+        "service": ["T", "D", "O", "G"]
+      },
+      {
+        "name": "Juana's",
+        "address": "129 S Fraser St, State College, PA 16801",
+        "loc" : {
+					"lat" : 40.7931749,
+          "lng" : -77.8616487
+        },
+        "price": "$",
+        "rating" : 4.7,
+        "link": "juanascuisine.com",
+        "service": ["T", "G"]
       }
     ]
   }
