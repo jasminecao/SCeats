@@ -35,7 +35,211 @@
         "price": "$",
         "rating" : 4.0,
         "link": "https://www.canyonpizzapsu.com/#/",
-        "service": ["T", "D", "C", "GR", "G"]
+        "service": ["T", "D", "C", "GR", "UE", "DD", "G"]
+      },
+      {
+        "name": "D. P. Dough",
+        "address": "401 E Beaver Ave, State College, PA 16801",
+        "loc" : {
+          "lat" : 40.797066,
+          "lng" : -77.855864
+        },
+        "price": "$",
+        "rating" : 4.0,
+        "link": "https://dpdough.com/",
+        "service": ["T", "D", "C", "GR", "DD"]
+      },
+      {
+        "name": "Monte Carlos Pizza & Wings",
+        "address": "906 W College Ave #3, State College, PA 16801",
+        "loc" : {
+          "lat" : 40.786537,
+          "lng" : -77.87133899999999
+        },
+        "price": "$",
+        "rating" : 4.0,
+        "link": "https://www.ordermontecarlopizza.com/",
+        "service": ["N/A"]
+      },
+      {
+        "name": "The Dining Room at The Nittany Lion Inn",
+        "address": "200 W Park Ave, State College, PA 16803",
+        "loc" : {
+          "lat" : 40.7969582,
+          "lng" : -77.87082099999999
+        },
+        "price": "$$",
+        "rating" : 4.4,
+        "link": "https://nittanylioninn.psu.edu/welcome-the-dining-room",
+        "service": ["N/A"]
+      },
+      {
+        "name": "Kimchi Korean Restaurant",
+        "address": "1100 N Atherton St, State College, PA 16803",
+        "loc" : {
+          "lat" : 40.8014293,
+          "lng" : -77.8806227
+        },
+        "price": "$$",
+        "rating" : 4.4,
+        "link": "http://www.kimchistatecollege.com/",
+        "service": ["N/A"]
+      },
+      {
+        "name": "Little Szechuan",
+        "address": "228 W College Ave, State College, PA 16801",
+        "loc" : {
+          "lat" : 40.79275639999999,
+          "lng" : -77.8632781
+        },
+        "price": "$$",
+        "rating" : 4.5,
+        "link": "https://littleszechuanstatecollege.com/29027",
+        "service": ["N/A"]
+      },
+      {
+        "name": "Faccia Luna Pizzeria",
+        "address": "1229 S Atherton St, State College, PA 16801",
+        "loc" : {
+          "lat" : 40.784782,
+          "lng" : -77.847396
+        },
+        "price": "$$",
+        "rating" : 4.4,
+        "link": "https://www.facebook.com/Faccia-Luna-Pizzeria-226654383097/",
+        "service": ["T"]
+      },
+      {
+        "name": "Whiskers",
+        "address": "200 W Park Ave, State College, PA 16803",
+        "loc" : {
+          "lat" : 40.7968778,
+          "lng" : -77.87088059999999
+        },
+        "price": "$$",
+        "rating" : 4.5,
+        "link": "https://nittanylioninn.psu.edu/welcome-whiskers-casual-dining-psu",
+        "service": ["N/A"]
+      },
+      {
+        "name": "Cozy Thai Bistro",
+        "address": "232 S Allen St, State College, PA 16801",
+        "loc" : {
+          "lat" : 40.7926971,
+          "lng" : -77.8594361
+        },
+        "price": "$$",
+        "rating" : 4.4,
+        "link": "https://www.cozythaibistro.com/",
+        "service": ["T", "D", "G"]
+      },
+      {
+        "name": "The Waffle Shop",
+        "address": "364 E College Ave, State College, PA 16801",
+        "loc" : {
+          "lat" : 40.7975471,
+          "lng" : -77.857102
+        },
+        "price": "$",
+        "rating" : 4.2,
+        "link": "https://www.originalwaffleshop.net/",
+        "service": ["T", "C", "G"]
+      },
+      {
+        "name": "Tadashi Japanese Restaurant",
+        "address": "206 W College Ave, State College, PA 16801",
+        "loc" : {
+          "lat" : 40.7933203,
+          "lng" : -77.86288239999999
+        },
+        "price": "$$",
+        "rating" : 4.4,
+        "link": "http://tadashipa.com/",
+        "service": ["T", "D", "G"]
+      },
+      {
+        "name": "Sowers Harvest Café",
+        "address": "421 E Beaver Ave, State College, PA 16801",
+        "loc" : {
+          "lat" : 40.79737069999999,
+          "lng" : -77.85551980000001
+        },
+        "price": "$",
+        "rating" : 4.9,
+        "link": "https://www.sowersharvest.cafe/",
+        "service": ["C", "T", "D", "G"]
+      },
+      {
+        "name": "The Corner Room",
+        "address": "100 W College Ave, State College, PA 16801",
+        "loc" : {
+          "lat" : 40.7942719,
+          "lng" : -77.86160670000001
+        },
+        "price": "$$",
+        "rating" : 4.2,
+        "link": "https://www.cornerroom.com/",
+        "service": ["N/A"]
+      },
+      {
+        "name": "Plaza Mexican Bar & Grill",
+        "address": "1550 S Atherton St, State College, PA 16801",
+        "loc" : {
+          "lat" : 40.7847901,
+          "lng" : -77.83761249999999
+        },
+        "price": "$$",
+        "rating" : 4.5,
+        "link": "https://www.plazaazteca.com/state-college-pennsylvania",
+        "service": ["N/A"]
+      },
+      {
+        "name": "India Pavilion",
+        "address": "222 E Calder Way, State College, PA 16801",
+        "loc" : {
+          "lat" : 40.7953613,
+          "lng" : -77.8590624
+        },
+        "price": "$$",
+        "rating" : 4.3,
+        "link": "https://indiapavilion.net/",
+        "service": ["GR", "T"]
+      },
+      {
+        "name": "Margarita's Pizzeria",
+        "address": "222 W Beaver Ave, State College, PA 16801",
+        "loc" : {
+          "lat" : 40.7919882,
+          "lng" : -77.8620452
+        },
+        "price": "$",
+        "rating" : 4.7,
+        "link": "https://www.facebook.com/Margaritas-Pizzeria-Italian-Cuisine-168752099845206/",
+        "service": ["T", "C"]
+      },
+      {
+        "name": "The Greek",
+        "address": "102 Clinton Ave, State College, PA 16803",
+        "loc" : {
+          "lat" : 40.8041852,
+          "lng" : -77.88294209999999
+        },
+        "price": "$$",
+        "rating" : 4.5,
+        "link": "https://www.facebook.com/thegreekstatecollege/",
+        "service": ["C", "D", "GR", "T"]
+      },
+      {
+        "name": "Green Bowl",
+        "address": "131 W Beaver Ave, State College, PA 16801",
+        "loc" : {
+          "lat" : 40.7928414,
+          "lng" : -77.8613294
+        },
+        "price": "$$",
+        "rating" : 4.2,
+        "link": "https://www.statecollege.com/dining/6361/green-bowl/",
+        "service": ["N/A"]
       }
     ]
   }

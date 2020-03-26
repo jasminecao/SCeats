@@ -25,7 +25,7 @@ const RoundTag = styled.span`
   padding-left: .5em;
   padding-right: .5em;
   white-space: nowrap;
-  margin-bottom: .35rem;
+  margin-top: .35rem;
   margin-right: .35rem;
 `
 
@@ -46,6 +46,12 @@ const RestCard = props => {
   }
   if (service.includes("GR")) {
     service[service.indexOf("GR")] = "grubhub"
+  }
+  if (service.includes("DD")) {
+    service[service.indexOf("DD")] = "doordash"
+  }
+  if (service.includes("UE")) {
+    service[service.indexOf("UE")] = "uber eats"
   }
   if (service.includes("G")) {
     service[service.indexOf("G")] = "gift card"
