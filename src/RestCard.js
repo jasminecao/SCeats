@@ -60,7 +60,7 @@ const RestCard = props => {
   return (
     <>
       <div className="card">
-        <NameStyle><a href={link}>{name}</a></NameStyle>
+        <NameStyle><a target="_blank" rel="noopener noreferrer" href={link}>{name}</a></NameStyle>
         <AddressStyle>{address}</AddressStyle>
         <RoundTag col={"#F5F5F5"}><PriceStyle>{rating}<span role="img">⭐</span></PriceStyle></RoundTag>
         <RoundTag col={"#F5F5F5"}><PriceStyle>{price}</PriceStyle></RoundTag>
