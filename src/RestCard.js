@@ -1,5 +1,6 @@
 import React, {useState} from 'react';
 import styled from 'styled-components';
+import MapContainer from './MapContainer';
 
 const NameStyle = styled.h3`
   color: #4F4F4F;
@@ -28,6 +29,19 @@ const RoundTag = styled.span`
   margin-top: .35rem;
   margin-right: .35rem;
 `
+
+const colors = {
+  takeout: "#FFE6D8",
+  delivery: "#CDE5FB",
+  curbside: "#D3EDF3",
+  "drive-thru": "#FFDEB2",
+  online: "#D5CEF5",
+  grubhub: "#E3EAB8",
+  doordash: "#FFBBB4",
+  "uber eats": "#D7F5D7",
+  "gift card": "#FBD8F1",
+  "N/A": "#F5F5F5"
+}
 
 const RestCard = props => {
   const {name, address, price, rating, link, service} = props
@@ -71,7 +85,7 @@ const RestCard = props => {
         {
           service.map(str => {
             return(
-              <RoundTag col={"#F5F5F5"}>
+              <RoundTag col={colors[str]}>
               {str}
               </RoundTag>
             )
