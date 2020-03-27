@@ -10,7 +10,7 @@ body {
 
 .header {
   color: white;
-  padding: 1rem 1rem 1rem;
+  padding: 0.7rem 1rem 0.5rem;
   background-color: #F43D4C;
   max-height: 10vh;
 }
@@ -19,6 +19,7 @@ body {
   font-size: 12px;
   line-height: 1.5em;
   color: lightslategray;
+  margin-top: 1em;
 }
 
 .map {
@@ -32,14 +33,14 @@ body {
   float: left;
   box-sizing: border-box;
   width: 40%;
-  padding: 1rem 1rem 1rem;
+  padding: 1rem 1rem;
   height: 90vh;
   overflow-y: scroll;
 }
 
 .restHeader {
   color: #F43D4C;
-  margin-bottom: 1rem;
+  margin-bottom: 0.5rem;
 }
 
 .card {
