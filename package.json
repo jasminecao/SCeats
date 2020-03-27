@@ -2,7 +2,7 @@
   "name": "SCeats",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://jasminecao.github.io/sceats",
+  "homepage": "https://jasminecao.github.io/SCeats",
   "dependencies": {
     "@react-google-maps/api": "^1.8.6",
     "@testing-library/jest-dom": "^4.2.4",
