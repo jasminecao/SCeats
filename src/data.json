@@ -1212,6 +1212,18 @@
         "rating" : 4.8,
         "link": "creamery.psu.edu",
         "service": ["N/A"]
+      },
+      {
+        "name": "Kamrai Thai & Sushi House",
+        "address": "901 Pike St, Lemont, PA 16851",
+        "loc" : {
+					"lat" : 40.809490,
+          "lng" : -77.818350
+        },
+        "price": "$$",
+        "rating" : 4.6,
+        "link": "https://www.kamraithairestaurant.com/",
+        "service": ["N/A"]
       }
     ]
   }
