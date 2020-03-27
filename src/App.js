@@ -8,8 +8,8 @@ function App() {
   return (
     <>
       <Header/>
-      <MapContainer/>
       <RestCardContainer/>
+      <MapContainer/>
     </>
   );
 }
