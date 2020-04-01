@@ -1224,6 +1224,306 @@
         "rating" : 4.6,
         "link": "https://www.kamraithairestaurant.com/",
         "service": ["N/A"]
+      },
+      {
+        "name": "American Diner",
+        "address": "1841 Philipsburg Bigler Hwy, Philipsburg, PA 16866",
+        "loc" : {
+					"lat" : 40.911400,
+          "lng" : -78.244100
+        },
+        "price": "$",
+        "rating" : 4.6,
+        "link": "https://www.facebook.com/diner.philipsburg.pa/",
+        "service": ["T"]
+      },
+      {
+        "name": "Blonde Bistro",
+        "address": "135 S Allegheny St, Bellefonte, PA 16823",
+        "loc" : {
+					"lat" : 40.910970,
+          "lng" : -77.777680
+        },
+        "price": "$$",
+        "rating" : 4.4,
+        "link": "https://ciarasblondebistro.com/",
+        "service": ["C", "D"]
+      },
+      {
+        "name": "Brazilian Munchies",
+        "address": "250 University Dr, University Park, PA 16802",
+        "loc" : {
+					"lat" : 40.807410,
+          "lng" : -77.855930
+        },
+        "price": "$",
+        "rating" : 4.6,
+        "link": "brazilianmunchies.net",
+        "service": ["D", "O"]
+      },
+      {
+        "name": "The Cakery",
+        "address": "135 W High St, Bellefonte, PA 16823",
+        "loc" : {
+					"lat" : 40.911910,
+          "lng" : -77.778990
+        },
+        "price": "$$",
+        "rating" : 5.0,
+        "link": "thecakerycakes.com",
+        "service": ["C"]
+      },
+      {
+        "name": "CC Peppers",
+        "address": "1625 N Atherton St, State College, PA 16803",
+        "loc" : {
+					"lat" : 40.810170,
+          "lng" : -77.894830
+        },
+        "price": "$",
+        "rating" : 4.1,
+        "link": "https://www.facebook.com/pages/C-C-Peppers/117210924964495",
+        "service": ["T", "D", "C", "O", "G"]
+      },
+      {
+        "name": "Chick-Fil-A",
+        "address": "1938 N Atherton St, State College, PA 16803",
+        "loc" : {
+					"lat" : 40.8088339,
+          "lng" : -77.9060313
+        },
+        "price": "$",
+        "rating" : 4.7,
+        "link": "chick-fil-a.com",
+        "service": ["DT", "T"]
+      },
+      {
+        "name": "Chipotle",
+        "address": "1850 N Atherton St, State College, PA 16803",
+        "loc" : {
+					"lat" : 40.808544,
+          "lng" : -77.90376
+        },
+        "price": "$",
+        "rating" : 4.2,
+        "link": "chipotle.com",
+        "service": ["T", "O"]
+      },
+      {
+        "name": "Duffy's Tavern",
+        "address": "113 E Main St, Boalsburg, PA 16827",
+        "loc" : {
+					"lat" : 40.775925,
+          "lng" : -77.7923084
+        },
+        "price": "$$",
+        "rating" : 4.5,
+        "link": "duffystavernpa.com",
+        "service": ["T"]
+      },
+      {
+        "name": "Earlystown Diner",
+        "address": "2770 Earlystown Rd, Centre Hall, PA 16828",
+        "loc" : {
+					"lat" : 40.8296054,
+          "lng" : -77.6818317
+        },
+        "price": "$",
+        "rating" : 4.4,
+        "link": "https://www.facebook.com/Earlystown-Diner-214291548997419/",
+        "service": ["T"]
+      },
+      {
+        "name": "Edible Arrangements",
+        "address": "337 Benner Pike, State College, PA 16801",
+        "loc" : {
+					"lat" : 40.8314766,
+          "lng" : -77.8093658
+        },
+        "price": "$$",
+        "rating" : 4.2,
+        "link": "ediblearrangements.com",
+        "service": ["D"]
+      },
+      {
+        "name": "The Express Casual Dining",
+        "address": "104 E Wilson St, Centre Hall, PA 16828",
+        "loc" : {
+					"lat" : 40.8400122,
+          "lng" : -77.6777516
+        },
+        "price": "$$",
+        "rating" : 4.6,
+        "link": "https://www.facebook.com/pages/category/Restaurant/The-Express-Casual-Dining-2072820799628550/",
+        "service": ["T"]
+      },
+      {
+        "name": "Fasta & Ravioli Co",
+        "address": "157 W College Ave, Pleasant Gap, PA 16823",
+        "loc" : {
+					"lat" : 40.866663,
+          "lng" : -77.7488101
+        },
+        "price": "$$",
+        "rating" : 4.8,
+        "link": "fastaravioli.com",
+        "service": ["D"]
+      },
+      {
+        "name": "Four Ways Pub and Eatery",
+        "address": "685 Pleasantview Blvd, Bellefonte, PA 16823",
+        "loc" : {
+					"lat" : 40.923896,
+          "lng" : -77.7802224
+        },
+        "price": "$",
+        "rating" : 4.7,
+        "link": "fourwayspub.com",
+        "service": ["T"]
+      },
+      {
+        "name": "Governors’ Pub",
+        "address": "211 W High St, Bellefonte, PA 16823",
+        "loc" : {
+					"lat" : 40.9117626,
+          "lng" : -77.7800593
+        },
+        "price": "$$",
+        "rating" : 4.2,
+        "link": "thegovernorspub.com",
+        "service": ["T"]
+      },
+      {
+        "name": "Hofbrau",
+        "address": "106 Bishop St, Bellefonte, PA 16823",
+        "loc" : {
+					"lat" : 40.9107183,
+          "lng" : -77.7769739
+        },
+        "price": "$$",
+        "rating" : 4.5,
+        "link": "hofbraupizza.com",
+        "service": ["D", "T"]
+      },
+      {
+        "name": "Jim’s Italian Cuisine",
+        "address": "204 E Cherry Ln, Bellefonte, PA 16823",
+        "loc" : {
+					"lat" : 40.91160997891676,
+          "lng" : -77.77590345624219
+        },
+        "price": "$",
+        "rating" : 4.6,
+        "link": "https://www.facebook.com/jims-italian-cuisine-136494843091967/",
+        "service": ["T"]
+      },
+      {
+        "name": "Kitchen Witch Cafe",
+        "address": "337 Walnut St, Howard, PA 16841",
+        "loc" : {
+					"lat" : 41.0143488,
+          "lng" : -77.6583439
+        },
+        "price": "$",
+        "rating" : 4.8,
+        "link": "https://www.facebook.com/Thekitchenwitchcafe/",
+        "service": ["T"]
+      },
+      {
+        "name": "Maria’s Italian Restaurant and Pizza",
+        "address": "202 S Water St, Bellefonte, PA 16823",
+        "loc" : {
+					"lat" : 40.9088285,
+          "lng" : -77.7806083
+        },
+        "price": "$",
+        "rating" : 4.3,
+        "link": "marias-italian-restaurant.weebly.com",
+        "service": ["T"]
+      },
+      {
+        "name": "Maine Bay & Berry",
+        "address": "201 Elmwood St, State College, PA 16801",
+        "loc" : {
+					"lat" : 40.8107105,
+          "lng" : -77.8281832
+        },
+        "price": "$$",
+        "rating" : 4.8,
+        "link": "mainebayandberry.com",
+        "service": ["D", "T"]
+      },
+      {
+        "name": "The Overlook Grill by Harrison’s",
+        "address": "559 N Pennsylvania Ave, Centre Hall, PA 16828",
+        "loc" : {
+					"lat" : 40.8439011,
+          "lng" : -77.7084792
+        },
+        "price": "$$",
+        "rating" : 3.7,
+        "link": "theoverlookgrill.com",
+        "service": ["C", "T", "G"]
+      },
+      {
+        "name": "Panda Express",
+        "address": "1870 N Atherton St, State College, PA 16803",
+        "loc" : {
+					"lat" : 40.8085911,
+          "lng" : -77.9042408
+        },
+        "price": "$",
+        "rating" : 3.9,
+        "link": "pandaexpress.com",
+        "service": ["D", "DT", "T"]
+      },
+      {
+        "name": "Pizza Hut",
+        "address": "760 S Atherton St, State College, PA 16801",
+        "loc" : {
+					"lat" : 40.7855438,
+          "lng" : -77.8549137
+        },
+        "price": "$",
+        "rating" : 3.8,
+        "link": "pizzahut.com",
+        "service": ["D", "T"]
+      },
+      {
+        "name": "Qdoba",
+        "address": "1908 N Atherton St, State College, PA 16803",
+        "loc" : {
+					"lat" : 40.808908690441655,
+          "lng" : -77.90518946051728
+        },
+        "price": "$",
+        "rating" : 4.1,
+        "link": "qdoba.com",
+        "service": ["O", "T"]
+      },
+      {
+        "name": "Texas Roadhouse",
+        "address": "1885 Waddle Rd, State College, PA 16803",
+        "loc" : {
+					"lat" : 40.815133,
+          "lng" : -77.8976017
+        },
+        "price": "$$",
+        "rating" : 4.4,
+        "link": "texasroadhouse.com",
+        "service": ["T", "C", "O"]
+      },
+      {
+        "name": "Twin Kiss Restaurant",
+        "address": "2495 N Eagle Valley Rd, Howard, PA 16841",
+        "loc" : {
+					"lat" : 40.986830, 
+          "lng" : -77.718714
+        },
+        "price": "$",
+        "rating" : 4.2,
+        "link": "twinkissrestaurant.net",
+        "service": ["T"]
       }
     ]
   }
